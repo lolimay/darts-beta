@@ -1,0 +1,16 @@
+{
+    "id": "125a944b-9747-4e6e-b029-6e9b26bb3481",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.25.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "FRVR",
+        "homepage": "www.frvr.com",
+        "support": "support@frvr.com"
+    },
+    "name": "Darts-beta",
+    "nameSlug": "darts-beta",
+    "classFile": "DartsBetaApp.ts",
+    "description": "The target is right in front of you and the darts are lined up and ready to go. Take a deep breath because a steady hand and careful aim are your best chance of success. Can you hit the bullseye and rack up enough points to beat the best score? Darts offers extra advantages that are revealed when you pop the elusive balloon hovering near the board. There are bonus coins and extras that will help you become a real darts pro. A funky disco rhythm keeps you primed for play as the board offers fresh challenges. Watch out for the bomb! If your dart makes contact, the game ends. Darts will keep you focused as you concentrate on hitting your target. Watch your score grow as you hone your precision throwing skills. It's the perfect game to relax and stay sharp at the same time. Darts features: - original upbeat soundtrack - suitable for all ages - hone your skills of precision",
+    "implements": []
+}
